@@ -8,4 +8,5 @@ evnv311/
 __pycache__/
 *.pyc
 
-.vscode/
+.vscode/.agents/skills/developing-with-streamlit
+.claude/skills/developing-with-streamlit
